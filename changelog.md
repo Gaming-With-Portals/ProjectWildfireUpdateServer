@@ -1,3 +1,6 @@
+## Project Wildfire 1.3 ##
+- Fixed Recovery System volume issues
+
 ## Project Wildfire V1.2 ##
 - Added an aditional music option, Red Sun Perennial Mix
 - FUTURE PLANS:
