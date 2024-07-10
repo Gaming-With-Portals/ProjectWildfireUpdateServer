@@ -5,6 +5,7 @@ add /rus/data000/st4/r416.dtt
 add /blaxien_beta/data000/st4/r416.dat
 add /blaxien_beta/data000/st4/r416.dtt
 add config.json
+add mod.ini
 add /arena/data000/ph4/p470.dat
 add /arena/data000/st4/r400.dat
 add /arena/data000/st4/r40e.dat
@@ -34,4 +35,3 @@ add /main/data000/st4/r416.dat
 add /main/data000/st4/r416.dtt
 add /op2/data000/stf/rf20.dat
 add /op2/data000/stf/rf20.dtt
-add mod.ini
