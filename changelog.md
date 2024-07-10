@@ -1,4 +1,4 @@
-## Project Wildfire V1.1.1 ##
+## Project Wildfire V1.2 ##
 - Added an aditional music option, Red Sun Perennial Mix
 
 
