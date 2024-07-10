@@ -1,0 +1,124 @@
+{
+   "Groups": [
+      {
+         "Name": "main",
+         "DisplayName": "Gameplay",
+         "Elements": [
+ 
+            {
+               "Name": "IncludeDir1",
+               "DisplayName": "Arena Overhaul",
+               "Description": [
+                  "Disables or enables the arena overhaul, Including BGM",
+               ],
+               "Type": "Option1",
+		       "MinValue": null,
+		       "MaxValue": null,
+               "DefaultValue": "arena"
+            },
+			{
+               "Name": "IncludeDir2",
+               "DisplayName": "Sundowner Main Menu",
+               "Description": [
+                  "Disables or enables having sundowner's arena as the main menu",
+               ],
+               "Type": "Option2",
+		       "MinValue": null,
+		       "MaxValue": null,
+               "DefaultValue": "op2"
+            },
+         {
+               "Name": "IncludeDir3",
+               "DisplayName": "Music",
+               "Description": [
+                  "Select music for Sundowner",
+               ],
+               "Type": "Option3",
+		       "MinValue": null,
+		       "MaxValue": null,
+               "DefaultValue": "main"
+            },
+
+         ]
+      }
+   ],
+   
+   "Enums": {
+
+      "Option1": 
+	  [
+
+         {
+            "DisplayName": "Enabled",
+            "Value": "arena",
+            "Description": [
+               "Enabled Option 1.",
+            ]
+         },
+
+         {
+            "DisplayName": "Disabled",
+            "Value": "disabled",
+            "Description": [
+               "Disabled Option 1.",
+            ]
+         },		 
+      ],
+	  "Option2": 
+	  [
+
+         {
+            "DisplayName": "Enabled",
+            "Value": "op2",
+            "Description": [
+               "Enabled Option 2.",
+            ]
+         },
+
+         {
+            "DisplayName": "Disabled",
+            "Value": "disabled",
+            "Description": [
+               "Disabled Option 2.",
+            ]
+         },		 
+      ],
+      "Option3": 
+      [
+ 
+          {
+             "DisplayName": "Red Sun: Original Enhanced",
+             "Value": "main",
+             "Description": [
+                "OG Red Sun with custom looping and blademode themes",
+             ]
+          },
+ 
+          {
+             "DisplayName": "Red Sun: The Recovery System",
+             "Value": "recovery",
+             "Description": [
+                "TRS Version of Red Sun - By Gaming with Portals",
+             ]
+          },		
+
+          {
+            "DisplayName": "Red Sun: Ultimate Russian",
+            "Value": "rus",
+            "Description": [
+               "Ultimate Russian Version of Red Sun - By Gaming with Portals",
+            ]
+         },
+         {
+            "DisplayName": "Blood-Red Sun",
+            "Value": "brs",
+            "Description": [
+               "Blood-Red Sun - By MeowsAndStuff",
+            ]
+         },
+
+       ],
+
+	},  
+   "IniFile": "mod.ini"
+}
