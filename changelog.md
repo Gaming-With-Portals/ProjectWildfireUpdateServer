@@ -1,3 +1,8 @@
+## Project Wildfire 1.4 ##
+- Improved RAM prefromance by removing unused textures
+- Reduced space requirement by ~10MB 
+
+
 ## Project Wildfire 1.3 ##
 - Fixed Recovery System volume issues
 
