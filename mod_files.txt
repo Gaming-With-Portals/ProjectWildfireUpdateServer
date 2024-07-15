@@ -5,6 +5,10 @@ add /rus/data000/st4/r416.dat
 add /rus/data000/st4/r416.dtt
 add /blaxien_beta/data000/st4/r416.dat
 add /blaxien_beta/data000/st4/r416.dtt
+add /shock_glu/data000/st4/r416.dat
+add /shock_glu/data000/st4/r416.dtt
+add /shock_ldh/data000/st4/r416.dat
+add /shock_ldh/data000/st4/r416.dtt
 add config.json
 add /arena/data000/ph4/p470.dat
 add /arena/data000/st4/r400.dat
@@ -35,3 +39,5 @@ add /main/data000/st4/r416.dat
 add /main/data000/st4/r416.dtt
 add /op2/data000/stf/rf20.dat
 add /op2/data000/stf/rf20.dtt
+add /menu_wildfire_2/data000/stf/rf20.dat
+add /menu_wildfire_2/data000/stf/rf20.dtt
