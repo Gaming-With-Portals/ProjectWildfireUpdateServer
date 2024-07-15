@@ -71,10 +71,16 @@
             "DisplayName": "Enabled",
             "Value": "op2",
             "Description": [
-               "Enabled Option 2.",
+               "Default, original arena",
             ]
          },
-
+         {
+            "DisplayName": "Main Menu: Wildfire Phase 2",
+            "Value": "menu_wildfire_2",
+            "Description": [
+               "Enables the blood-red sunset version of the skybox (Used in Phase 2)",
+            ]
+         },
          {
             "DisplayName": "Disabled",
             "Value": "disabled",
@@ -123,7 +129,20 @@
                "Blood-Red Sun - By BlaxienU",
             ]
          },
-
+         {
+            "DisplayName": "Red Sun (GoLightup!)",
+            "Value": "shock_glu",
+            "Description": [
+               "Credit to GoLightup! and Shocka",
+            ]
+         },
+         {
+            "DisplayName": "Red Sun (McGuinnsBook Cover)",
+            "Value": "shock_glu",
+            "Description": [
+               "Credit to McGuinnsBook and Shocka",
+            ]
+         },
 
        ],
 
