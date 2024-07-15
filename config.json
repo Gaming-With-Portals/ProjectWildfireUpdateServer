@@ -130,10 +130,10 @@
             ]
          },
          {
-            "DisplayName": "Red Sun (GoLightup!)",
-            "Value": "shock_glu",
+            "DisplayName": "Red Sun (GoLightup!) [DISABLED]",
+            "Value": "disabled",
             "Description": [
-               "Credit to GoLightup! and Shocka",
+               "Credit to GoLightup! and Shocka, This mod has an error that only Shocka can fix, while I wait for him to fix it this is disabled.",
             ]
          },
          {
