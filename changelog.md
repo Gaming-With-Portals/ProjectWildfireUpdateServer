@@ -1,3 +1,6 @@
+## (MINOR) Project Wildfire 1.6 ##
+- Disabled the GoLightup! cover until it is fixed.
+
 ## Project Wildfire 1.5 ##
 - Soundpack #2 (GoLightup! and the Live Dub cover)
 - Added the wildfire skybox as a main menu option, still requires some effect changes though
