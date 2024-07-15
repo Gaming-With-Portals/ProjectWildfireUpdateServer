@@ -1,3 +1,8 @@
+## Project Wildfire 1.5 ##
+- Soundpack #2 (GoLightup! and the Live Dub cover)
+- Added the wildfire skybox as a main menu option, still requires some effect changes though
+
+
 ## Project Wildfire 1.4 ##
 - Improved RAM prefromance by removing unused textures
 - Reduced space requirement by ~10MB 
