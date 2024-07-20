@@ -1,3 +1,6 @@
+## (MINOR) Project Wildfire 1.8 ##
+- Fixed Phase 2 looping error when restarting from checkpoint (RS: Enhanced)
+
 ## Project Wildfire 1.7 ##
 - Fixed timing errors for second phase in Red Sun Enhanced 
 
