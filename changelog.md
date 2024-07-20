@@ -1,3 +1,6 @@
+## Project Wildfire 1.7 ##
+- Fixed timing errors for second phase in Red Sun Enhanced 
+
 ## (MINOR) Project Wildfire 1.6 ##
 - Disabled the GoLightup! cover until it is fixed.
 
