@@ -1,3 +1,6 @@
+## (MINOR) Project Wildfire 1.9 ##
+- Fixed no other music playing in R-04
+
 ## (MINOR) Project Wildfire 1.8 ##
 - Fixed Phase 2 looping error when restarting from checkpoint (RS: Enhanced)
 
