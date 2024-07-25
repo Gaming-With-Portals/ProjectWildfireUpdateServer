@@ -1,3 +1,6 @@
+## Project Wildfire 1.11
+- Fixed Blood-Red and Russian's volume not changing
+
 ## (MINOR) Project Wildfire 1.10 ##
 - Disabled R-04 music because of a bug
 
