@@ -1,4 +1,4 @@
-## (MINOR) Project Wildfire 1.9 ##
+## (MINOR) Project Wildfire 1.10 ##
 - Disabled R-04 music because of a bug
 
 ## (MINOR) Project Wildfire 1.9 ##
