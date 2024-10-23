@@ -12,6 +12,8 @@ add /shock_ldh/data000/st4/r416.dtt
 add config.json
 add /arena/data000/ph4/p470.dat
 add /arena/data000/st4/r400.dat
+add /arena/data000/bm/bm5414.dat
+add /arena/data000/bm/bm5414.dtt
 add /arena/data000/st4/r40e.dat
 add /arena/data000/st4/r40e.dtt
 add /arena/data000/st4/r40f.dat
