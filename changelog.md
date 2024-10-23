@@ -2,6 +2,8 @@
 - Fixed the Live Dub From Hell Red Sun cover redirecting to the GoLightup! Cover
 - Re-enabled the GoLightUp Cover, which should now be working
 
+## You may have to reinstall the mod from Nexus. Config.json updating appears to be broken on RMM's side
+
 
 ## Project Wildfire 1.12
 - Changed Sundowner's arena to use DLC Armstrong's instead, this was meant to be included with the original release but I had forgetten to include it, these textures are higher quality
