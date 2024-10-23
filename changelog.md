@@ -1,3 +1,6 @@
+## Project Wildfire 1.12
+- Changed Sundowner's arena to use DLC Armstrong's instead, this was meant to be included with the original release but I had forgetten to include it, these textures are higher quality
+
 ## Project Wildfire 1.11
 - Fixed Blood-Red and Russian's volume not changing
 
