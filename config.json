@@ -130,15 +130,15 @@
             ]
          },
          {
-            "DisplayName": "Red Sun (GoLightup!) [DISABLED]",
-            "Value": "disabled",
+            "DisplayName": "Red Sun (GoLightup!)",
+            "Value": "shock_glu",
             "Description": [
-               "Credit to GoLightup! and Shocka, This mod has an error that only Shocka can fix, while I wait for him to fix it this is disabled.",
+               "Credit to GoLightup! and Shocka",
             ]
          },
          {
             "DisplayName": "Red Sun (McGuinnsBook Cover)",
-            "Value": "shock_glu",
+            "Value": "shock_ldh",
             "Description": [
                "Credit to McGuinnsBook and Shocka",
             ]
