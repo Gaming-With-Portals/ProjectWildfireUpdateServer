@@ -1,3 +1,6 @@
+## Project Wildfire 1.14
+- Attempt 1 at fixing the include directory error
+
 ## Project Wildfire 1.13
 - Fixed the Live Dub From Hell Red Sun cover redirecting to the GoLightup! Cover
 - Re-enabled the GoLightUp Cover, which should now be working
